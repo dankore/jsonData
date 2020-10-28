@@ -11,6 +11,12 @@
          "name":"Letter from President",
          "url":"/aboutjwu/letterfromthepresident/"
       },
+        {
+         "campus":"university",
+         "section":"/aboutjwu/",
+         "name":"Letter from President",
+         "url":"/aboutjwu/letterfromthepresident/"
+      },
       {
          "campus":"university",
          "section":"/aboutjwu/",
